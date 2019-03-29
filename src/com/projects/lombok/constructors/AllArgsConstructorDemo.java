@@ -7,7 +7,7 @@ import lombok.ToString;
 @ToString
 public class AllArgsConstructorDemo {
 
-    private final String name;
+    private  String name;
 
     private int age;
 
