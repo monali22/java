@@ -7,7 +7,7 @@ import lombok.ToString;
 @ToString
 public class NoArgsConstructorDemo {
 
-    private int x, y;
+    private int x, y, z;
 
     public static void main(String[] args) {
 
